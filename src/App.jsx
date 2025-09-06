@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import ShopItemClass from './components/ShopItemFunc/ShopItemClass';
+import ShopItemClass from './components/ShopItemClass/ShopItemClass';
 
 export class App extends React.Component{
   item = {
